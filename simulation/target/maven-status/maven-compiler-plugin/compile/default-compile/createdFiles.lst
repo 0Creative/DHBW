@@ -1,7 +1,1 @@
-de\dhbw\simulation\dao\FakePersonDataAccessService.class
 de\dhbw\simulation\SimulationApplication.class
-de\dhbw\simulation\dao\PersonDataAccessService.class
-de\dhbw\simulation\service\PersonService.class
-de\dhbw\simulation\dao\PersonDao.class
-de\dhbw\simulation\model\Person.class
-de\dhbw\simulation\api\PersonController.class
